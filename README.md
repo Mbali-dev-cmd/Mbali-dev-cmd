@@ -1,4 +1,5 @@
-Hi, I'm Mbali 
+#Hi, I'm Mbali 
+
 I’m a second-year Computer Science student aspiring software engineer, eager to learn, collaborate, and build meaningful software as I grow in my career.
 
 # 💫 About Me:
