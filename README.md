@@ -1,3 +1,6 @@
+Hi, I'm Mbali 
+I’m a second-year Computer Science student aspiring software engineer, eager to learn, collaborate, and build meaningful software as I grow in my career.
+
 # 💫 About Me:
 🔭 I'm working on building websites<br>👯‍♂️ I'm looking to collaborate on building games and other projects<br>🤝 I'm looking for help with Javascript <br>🌱 I'm currently learning HTML, CSS & C++<br>⚡ Fun fact about me, beside coding i also enjoy reading novels and spending time with family
 
