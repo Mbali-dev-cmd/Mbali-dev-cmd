@@ -7,7 +7,7 @@ I’m a second-year Computer Science student aspiring software engineer, eager t
 
 ## Portfolio
 
-🌐 Portfolio: 
+🌐 Portfolio:  https://mbali-dev-cmd.github.io/My-portfolio/
 
 
 # 💻 Tech Stack:
